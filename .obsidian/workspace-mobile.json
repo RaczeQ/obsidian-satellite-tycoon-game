@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universes/Universes.md",
+                "file": "Story/Story.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Universes"
+              "title": "Story"
             }
           }
         ]
@@ -37,7 +47,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false,
+            "autoReveal": true,
             "showSearch": false,
             "searchQuery": ""
           },
@@ -178,11 +188,12 @@
   },
   "active": "80c80ffe929e98ec",
   "lastOpenFiles": [
-    "Universes/Universes canvas.canvas",
-    "Story/Story.md",
-    "Universes/Universes.md",
     "Universes/Solar System/Solar System.md",
+    "Story/Story.md",
     "Universes/Solar System/Earth.md",
+    "Universes/Universes.md",
+    "Universes/Sci-Fi Future World/Sci-Fi Future World.md",
+    "Universes/Universes canvas.canvas",
     "Universes/Magic Fantasy World/Magic Fantasy World.md",
     "Universes/Sci-Fi Future World",
     "Universes/Magic Fantasy World",
