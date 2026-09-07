@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e00159c172b31111","type":"text","text":"# [[Solar System]]\n","x":-400,"y":-365,"width":250,"height":190,"color":"2"},
+		{"id":"c333f97d244c7296","type":"text","text":"# [[Andromeda Galaxy]]\n","x":0,"y":40,"width":280,"height":170,"color":"3"},
+		{"id":"09cc0031d2301845","x":440,"y":400,"width":360,"height":120,"color":"3","type":"text","text":"# [[Sci-Fi Future World]]"},
+		{"id":"64832ebc162c82ee","x":1120,"y":680,"width":440,"height":120,"color":"2","type":"text","text":"# [[Magic Fantasy World]]\n"}
+	],
+	"edges":[
+		{"id":"1efc50f1eb3ae478","fromNode":"e00159c172b31111","fromSide":"right","toNode":"c333f97d244c7296","toSide":"left","color":"3","label":"Contracted to help with colonisation of the distant galaxy as the leader in the business"},
+		{"id":"f8ff8a30728df291","fromNode":"c333f97d244c7296","fromSide":"right","toNode":"09cc0031d2301845","toSide":"left","color":"3","label":"Found a wormhole to teleport into the future after researching ancient artifacts"},
+		{"id":"e2eb2d4b515172b0","fromNode":"09cc0031d2301845","fromSide":"right","toNode":"64832ebc162c82ee","toSide":"left","color":"3","label":"Moved to another universe with quantum computer / teleporters"}
+	]
+}
