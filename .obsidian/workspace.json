@@ -11,17 +11,24 @@
             "id": "bffda3f273703ed6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Universes/Untitled.canvas",
-                "viewState": {
-                  "x": 505.0946469730169,
-                  "y": 478.987051193313,
-                  "zoom": -1.43302001953125
+                "file": "Story/Story.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Story"
             }
           }
         ]
@@ -203,12 +210,23 @@
   },
   "active": "bffda3f273703ed6",
   "lastOpenFiles": [
+    "Universes/Solar System/Earth.md",
+    "Universes/Universes.md",
+    "Story/Story.md",
+    "Universes/Sci-Fi Future World/Sci-Fi Future World.md",
+    "Universes/Magic Fantasy World/Magic Fantasy World.md",
+    "Universes/Andromeda Galaxy/Andromeda Galaxy.md",
+    "Universes/Untitled.canvas",
+    "Universes/Universes canvas.canvas",
+    "Universes/Solar System/Solar System.md",
+    "Universes/Solar System",
+    "Universes/Sci-Fi Future World",
+    "Universes/Magic Fantasy World",
+    "Universes/Andromeda Galaxy",
     "Universes/Andromeda Galaxy.md",
     "Universes/Magic Fantasy World.md",
     "Universes/Sci-Fi Future World.md",
     "Universes/Solar System.md",
-    "Universes/Untitled.canvas",
-    "Universes/Universes.md",
     "Welcome.md",
     "Universes/Untitled",
     "create a link.md",
@@ -219,8 +237,6 @@
     "Universes/03_Humanity Future",
     "Universes/02_Andromeda Galaxy",
     "Universes/01_Solar System",
-    "Universes",
-    "Story",
-    "Mechanics"
+    "Universes"
   ]
 }
