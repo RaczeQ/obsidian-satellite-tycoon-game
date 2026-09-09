@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "586c27dab6f126aa",
+        "id": "aa4bbb6ba1e88d7a",
         "type": "tabs",
         "children": [
           {
-            "id": "80c80ffe929e98ec",
+            "id": "97f09ead72bbd7bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Story/Story.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Story"
+              "icon": "git-pull-request",
+              "title": "Diff: data.json"
             }
           }
         ]
@@ -47,7 +37,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": true,
+            "autoReveal": false,
             "showSearch": false,
             "searchQuery": ""
           },
@@ -168,9 +158,29 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "7f65f4c2a29e193d",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {},
+          "icon": "history",
+          "title": "History"
+        }
+      },
+      {
+        "id": "627be058df84f780",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,10 +196,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "80c80ffe929e98ec",
+  "active": "97f09ead72bbd7bf",
   "lastOpenFiles": [
-    "Universes/Solar System/Solar System.md",
     "Story/Story.md",
+    "Welcome.md",
+    "Universes/Andromeda Galaxy/Andromeda Galaxy.md",
+    "Ancient Artefacts.md",
+    "Universes/Solar System/Solar System.md",
     "Universes/Solar System/Earth.md",
     "Universes/Universes.md",
     "Universes/Sci-Fi Future World/Sci-Fi Future World.md",
