@@ -1,0 +1,1 @@
+A place where player can research things to enhance his inventory. It can research stuff locked in a [[Technology Tree]]. It will take different forms in different universes.

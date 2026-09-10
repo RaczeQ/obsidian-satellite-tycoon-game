@@ -246,9 +246,57 @@
               "icon": "lucide-file",
               "title": "3D Globes"
             }
+          },
+          {
+            "id": "dedc09e7632c3917",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/Achievements.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Achievements"
+            }
+          },
+          {
+            "id": "9d09b88204fa3069",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/Gameplay loop.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Gameplay loop"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -423,17 +471,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "bd65435ea4e4700f",
+  "active": "1badf78d349cff3d",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Mechanics/Achievements.md",
+    "Mechanics/Gameplay loop.md",
     "Mechanics/3D Globes.md",
     "Mechanics/Satellite images.md",
-    "Mechanics/Companions.md",
-    "Mechanics/Dialogues.md",
-    "Mechanics/Story Quests.md",
-    "Mechanics/Laboratory.md",
-    "Welcome.md",
     "Mechanics/Production Facility.md",
+    "Mechanics/Laboratory.md",
+    "Mechanics/Dialogues.md",
+    "Mechanics/Companions.md",
+    "Mechanics/Story Quests.md",
+    "Welcome.md",
     "Untitled",
     "Mechanics/Technology Tree.md",
     "Mechanics/Missions.md",
