@@ -11,24 +11,14 @@
             "id": "c2d90330182ac819",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Mechanics/Currency.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Currency"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -210,6 +200,7 @@
   },
   "active": "c2d90330182ac819",
   "lastOpenFiles": [
+    "Mechanics/Currency.md",
     "Mechanics/Gameplay loop.md",
     "Mechanics/Laboratory.md",
     "Mechanics/Missions.md",
@@ -218,7 +209,6 @@
     "Mechanics/Production Facility.md",
     "Mechanics/Technology Tree.md",
     "Mechanics/Satellite Durability.md",
-    "Mechanics/Currency.md",
     "Users/raczeq/obsidian-notes/Satellite Tycoon Game/Mechanics",
     "Users/raczeq/obsidian-notes/Satellite Tycoon Game",
     "Users/raczeq/obsidian-notes",
