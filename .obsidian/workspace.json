@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d70ddabf25eb9239",
+        "id": "e70bf6de96b6ede5",
         "type": "tabs",
         "children": [
           {
-            "id": "8ecd74c04ac7c8ce",
+            "id": "c2d90330182ac819",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Mechanics/Currency.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Currency"
             }
           }
         ]
@@ -198,20 +208,33 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8ecd74c04ac7c8ce",
+  "active": "c2d90330182ac819",
   "lastOpenFiles": [
-    "Universes/Andromeda Galaxy/Ancient Artefacts.md",
+    "Mechanics/Gameplay loop.md",
+    "Mechanics/Laboratory.md",
+    "Mechanics/Missions.md",
+    "Mechanics/Orbital Capacity.md",
+    "Mechanics/Power Systems.md",
+    "Mechanics/Production Facility.md",
     "Mechanics/Technology Tree.md",
+    "Mechanics/Satellite Durability.md",
+    "Mechanics/Currency.md",
+    "Users/raczeq/obsidian-notes/Satellite Tycoon Game/Mechanics",
+    "Users/raczeq/obsidian-notes/Satellite Tycoon Game",
+    "Users/raczeq/obsidian-notes",
+    "Users/raczeq",
+    "Users",
     "Mechanics/Story Quests.md",
     "Mechanics/Satellite images.md",
-    "Mechanics/Production Facility.md",
-    "Mechanics/Missions.md",
-    "Mechanics/Laboratory.md",
-    "Mechanics/Gameplay loop.md",
     "Mechanics/Dialogues.md",
     "Mechanics/Companions.md",
     "Mechanics/Achievements.md",
     "Mechanics/3D Globes.md",
+    "Welcome.md",
+    "Untitled.base",
+    "2026-09-11.md",
+    "Untitled.canvas",
+    "Universes/Andromeda Galaxy/Ancient Artefacts.md",
     "Story/Story.md",
     "Ancient Artefacts.md",
     "Universes/Solar System/Earth.md",
@@ -225,18 +248,6 @@
     "Universes/Solar System",
     "Universes/Sci-Fi Future World",
     "Universes/Magic Fantasy World",
-    "Universes/Andromeda Galaxy",
-    "Universes/Andromeda Galaxy.md",
-    "Universes/Magic Fantasy World.md",
-    "Universes/Sci-Fi Future World.md",
-    "Universes/Solar System.md",
-    "Welcome.md",
-    "Universes/Untitled",
-    "create a link.md",
-    "Universes/04_Magic Fantasy World",
-    "Universes/03_Humanity Future",
-    "Universes/02_Andromeda Galaxy",
-    "Universes/01_Solar System",
-    "Universes"
+    "Universes/Andromeda Galaxy"
   ]
 }
